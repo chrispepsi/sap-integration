@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="adf0584b07332110c141f9fc7c1ed0a5" extends="task" label="SAPTask" max_length="40" name="x_484722_sap_integ_saptask" type="collection">
+        <element label="Currency" max_length="40" name="currency" type="string"/>
+    </element>
+</database>
