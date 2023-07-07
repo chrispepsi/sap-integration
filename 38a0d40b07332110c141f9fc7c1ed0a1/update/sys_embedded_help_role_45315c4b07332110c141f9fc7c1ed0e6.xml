@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_484722_sap_integ.saptask_user" name="x_484722_sap_integ.saptask_user">4531108707332110c141f9fc7c1ed0ba</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-07 06:57:46</sys_created_on>
+        <sys_id>45315c4b07332110c141f9fc7c1ed0e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4531108707332110c141f9fc7c1ed0ba</sys_name>
+        <sys_package display_value="SAP Integration" source="x_484722_sap_integ">38a0d40b07332110c141f9fc7c1ed0a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAP Integration">38a0d40b07332110c141f9fc7c1ed0a1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_45315c4b07332110c141f9fc7c1ed0e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-07 06:57:46</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
